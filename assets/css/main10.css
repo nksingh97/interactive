@@ -1,0 +1,13 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 19px;
+}
+
+.special {
+  font-style: normal;
+}
+
+.firm {
+  font-variant: small-caps;
+}
+

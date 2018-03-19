@@ -1,0 +1,19 @@
+body{
+    color:orangered;
+    padding: 3em 4em 5em 6em;
+} 
+body {
+    border-style: solid;
+    border-color: aqua
+    border-width: 9px;
+}
+.fornikki {
+    font-size: 50pt;
+}body {
+  font-family: "Bookman", Bookman Header, arial, sans-serif;
+    font-size: 14px;
+}
+.container {
+  padding-left: 50px;
+  padding-right: 50px;
+}

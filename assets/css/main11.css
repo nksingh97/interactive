@@ -1,0 +1,12 @@
+body {
+  font-family: "Didot", Didot, arial, sans-serif;
+    font-size: 14px;
+}
+
+.special {
+  font-style: normal;
+}
+
+.firm {
+  font-variant: small-caps;
+}

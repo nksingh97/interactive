@@ -1,0 +1,18 @@
+body{
+    color:mediumslateblue;
+    padding: 3em 4em 5em 6em;
+} 
+body {
+    border-style: dotted;
+    border-width: 40px;
+}
+.fornikki {
+    font-size: 50pt;
+}body {
+  font-family: "Gill Sans", Gill sans-serifarial, sans-serif;
+    font-size: 14px;
+}
+.container {
+  padding-left: 50px;
+  padding-right: 50px;
+}
